@@ -30,7 +30,6 @@ Example:
 bash
 ```
 python3 owa_password_sprayer.py owa owa http://autodiscover.example.com Password /home/kali/Tools/user.txt --threads 3 --debug
-
 ```
 Result Summary:
 
