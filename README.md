@@ -25,20 +25,24 @@ Command-line Arguments:
 * `--threads`: Number of concurrent threads to use (default: 3).
 * `--debug`: Enable debug mode for detailed logging.
 
-Example:
+## Example:
 
 bash
 ```
 python3 owa_password_sprayer.py owa owa http://autodiscover.example.com Password /home/kali/Tools/user.txt --threads 3 --debug
 ```
-Result Summary:
+## Result Summary:
 
 Upon completion, the script provides a summary of successful authentication attempts, if any, along with detailed logging for each authentication request.
 
-License:
+## Author
+
+This script was developed by Dilanka Kaushal Hewage (**sp3c73rsh4d0w**).
+
+## License:
 
 * This project is licensed under the MIT License - see the LICENSE file for details.
 
-Disclaimer:
+## Disclaimer:
 
 * Use this tool responsibly and only with proper authorization. Unauthorized use is strictly prohibited.
