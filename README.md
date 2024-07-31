@@ -10,14 +10,14 @@ Features:
 * Integration with asyncio for asynchronous task execution.
 * Detailed logging and debug options to aid in troubleshooting.
 
-Usage:
+## Usage:
 
 * Clone the repository.
 * Install necessary dependencies (requests, requests_ntlm, docopt).
 * Customize the script with your target OWA URL, user list, and password.
 * Run the script with appropriate command-line arguments to initiate password spraying.
 
-Command-line Arguments:
+## Command-line Arguments:
 
 * `target`: URL of the OWA endpoint.
 * `password`: Password to be sprayed against user list.
