@@ -37,7 +37,7 @@ Upon completion, the script provides a summary of successful authentication atte
 
 ## Author
 
-This script was developed by Dilanka Kaushal Hewage (**0xwh1pl4sh**).
+This script was developed by Dilanka Kaushal Hewage (**n3rdyn3xus**).
 
 ## License:
 
